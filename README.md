@@ -78,7 +78,6 @@ After analyzing the pivot table, I found some interesting trends in performance 
    - **Rationale**: A well-structured incentive system encourages high performance while simultaneously fostering job satisfaction across departments.
 
 ## Presentation
-You can download the raw excel file [here](https://github.com/remy-nguyen-binh/HR-Performance-Salary-Analysis/blob/main/HR%20Performance%20and%20Job%20Satisfaction%20Analysis.pptx)
-
+You can download the raw excel file [here](https://github.com/remy-nguyen-binh/HR-Performance-Salary-Analysis/blob/main/PowerPoint%20Presentation%20-%20HR%20Performance%20and%20Job%20Satisfaction%20Analsis.pptx)
 
   
