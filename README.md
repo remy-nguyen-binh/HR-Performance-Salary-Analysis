@@ -23,6 +23,12 @@ The dataset contains the following features:
 - Turnover Risk: Employee’s likelihood of leaving the company (Low, Medium, High).
 - Work Location: Employee's work setting (Remote, On-Site, Hybrid).
 - Supervisor ID: Unique identifier for the employee’s supervisor.
+
+## Data Source
+You can download the raw excel file [here](https://github.com/remy-nguyen-binh/HR-Performance-Salary-Analysis/blob/main/HRIS_HR_Analyst_Dataset.csv)
+
+## Tool
+I am using the Microsoft Excel for this analysi.
 ## Data Analysis Steps
 ### Data Cleaning
 Remove or handle any missing or erroneous data, ensuring the dataset is complete and ready for analysis.
@@ -71,6 +77,8 @@ After analyzing the pivot table, I found some interesting trends in performance 
    - **Recommendation**: Develop a performance recognition and incentive program tailored to the different departmental needs. Recognize both high-performing and highly engaged employees through awards, bonuses, or career development opportunities.
    - **Rationale**: A well-structured incentive system encourages high performance while simultaneously fostering job satisfaction across departments.
 
+## Presentation
+You can download the raw excel file [here](https://github.com/remy-nguyen-binh/HR-Performance-Salary-Analysis/blob/main/HR%20Performance%20and%20Job%20Satisfaction%20Analysis.pptx)
 
 
   
