@@ -28,7 +28,7 @@ The dataset contains the following features:
 You can download the raw excel file [here](https://github.com/remy-nguyen-binh/HR-Performance-Salary-Analysis/blob/main/HRIS_HR_Analyst_Dataset.csv)
 
 ## Tool
-I am using the Microsoft Excel for this analysi.
+I am using the Microsoft Excel for this analysis.
 ## Data Analysis Steps
 ### Data Cleaning
 Remove or handle any missing or erroneous data, ensuring the dataset is complete and ready for analysis.
